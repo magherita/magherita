@@ -79,13 +79,12 @@ _October 2016 – June 2019 | Kampala, Uganda_
 
 ---
 
-## 📊 GitHub Metrics & Activity
+<!--## 📊 GitHub Metrics & Activity-->
 
 <!-- Replace your-username with your actual GitHub username below -->
 
-![](https://github-readme-stats.vercel.app/api?username=magherita&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=magherita&layout=compact&theme=radical)
+<!--![](https://github-readme-stats.vercel.app/api?username=magherita&show_icons=true&theme=radical)-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=magherita&layout=compact&theme=radical)-->
 
----
-
+<!-- --- -->
 💬 **Let's connect!** Reach out if you're looking for an expert to architect robust distributed systems, implement serverless cloud solutions, or build high-throughput engines [0.1.1, 0.1.2].
